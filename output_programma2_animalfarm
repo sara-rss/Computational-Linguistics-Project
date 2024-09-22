@@ -1,0 +1,550 @@
+
+OUPUT PROGRAMMA 2, file animalfarm.txt
+
+
+1. I TOP 50 Sostantivi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. animals: 39
+2. Jones: 27
+3. farm: 19
+4. Mr.: 16
+5. Snowball: 16
+6. pigs: 15
+7. comrades: 14
+8. Major: 12
+9. animal: 12
+10. Man: 12
+11. England: 11
+12. way: 10
+13. life: 9
+14. Napoleon: 9
+15. night: 8
+16. day: 8
+17. cows: 8
+18. Boxer: 8
+19. men: 8
+20. round: 7
+21. dream: 7
+22. barn: 7
+23. end: 7
+24. dogs: 7
+25. Clover: 7
+26. horses: 7
+27. moment: 7
+28. Moses: 7
+29. milk: 7
+30. Rebellion: 7
+31. others: 7
+32. pig: 6
+33. place: 6
+34. year: 6
+35. song: 6
+36. side: 5
+37. bed: 5
+38. buildings: 5
+39. straw: 5
+40. years: 5
+41. wall: 5
+42. Mollie: 5
+43. sugar: 5
+44. ribbons: 5
+45. time: 5
+46. tune: 5
+47. hay: 5
+48. bedroom: 4
+49. front: 4
+50. sheep: 4
+
+
+I TOP 50 Avverbi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. not: 26
+2. down: 15
+3. up: 13
+4. very: 11
+5. back: 11
+6. out: 11
+7. then: 10
+8. now: 10
+9. never: 9
+10. ever: 8
+11. so: 7
+12. more: 7
+13. together: 5
+14. just: 5
+15. almost: 5
+16. already: 4
+17. as: 4
+18. always: 4
+19. still: 4
+20. well: 4
+21. only: 4
+22. also: 4
+23. Then: 4
+24. too: 3
+25. off: 3
+26. quite: 3
+27. usually: 3
+28. asleep: 3
+29. later: 3
+30. Now: 3
+31. even: 3
+32. Even: 3
+33. there: 3
+34. suddenly: 3
+35. once: 3
+36. soon: 2
+37. rather: 2
+38. long: 2
+39. immediately: 2
+40. nearly: 2
+41. first: 2
+42. longer: 2
+43. alone: 2
+44. enough: 2
+45. yet: 2
+46. again: 2
+47. Never: 2
+48. ago: 2
+49. however: 2
+50. Soon: 2
+
+
+I TOP 50 Aggettivi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. old: 12
+2. last: 9
+3. white: 8
+4. other: 7
+5. great: 7
+6. more: 7
+7. few: 7
+8. such: 6
+9. own: 6
+10. many: 5
+11. much: 5
+12. human: 5
+13. animal: 5
+14. little: 5
+15. small: 4
+16. long: 4
+17. first: 4
+18. whole: 4
+19. past: 4
+20. big: 3
+21. tremendous: 3
+22. miserable: 3
+23. capable: 3
+24. free: 3
+25. good: 3
+26. single: 3
+27. only: 3
+28. secret: 3
+29. black: 3
+30. store-shed: 3
+31. drunk: 2
+32. lantern: 2
+33. strange: 2
+34. ready: 2
+35. comfortable: 2
+36. strong: 2
+37. foolish: 2
+38. Last: 2
+39. usual: 2
+40. short: 2
+41. natural: 2
+42. young: 2
+43. better: 2
+44. clear: 2
+45. rich: 2
+46. perfect: 2
+47. large: 2
+48. evil: 2
+49. equal: 2
+50. hoarse: 2
+
+
+2. I TOP 20 n-grammi (n=[1,2,3,4,5]):
+
+
+
+Top 1-grammi più frequenti: 
+[('the', 352), 
+(',', 348), 
+('.', 262), 
+('of', 164), 
+('and', 159), 
+('to', 125), 
+('a', 101), 
+('in', 93), 
+('was', 89), 
+('that', 74), 
+('had', 66), 
+('it', 58), 
+('they', 49), 
+('for', 43), 
+('is', 42), 
+('he', 40), 
+('on', 40), 
+('animals', 39), 
+('I', 36), 
+('The', 33)]
+
+Top 2-grammi più frequenti: 
+[((',', 'and'), 52), 
+((',', 'the'), 43), 
+(('of', 'the'), 42), 
+(('in', 'the'), 30), 
+(('.', 'The'), 28), 
+(('to', 'the'), 26), 
+(('the', 'animals'), 23), 
+(('and', 'the'), 21), 
+((',', 'but'), 17), 
+(('Mr.', 'Jones'), 16), 
+(('.', '``'), 16), 
+(('on', 'the'), 15), 
+(('was', 'a'), 14), 
+(('the', 'farm'), 14), 
+((',', 'comrades'), 13), 
+(('in', 'a'), 13), 
+(('the', 'pigs'), 11), 
+((',', 'who'), 11), 
+(('it', 'was'), 11), 
+(('.', 'All'), 11)]
+
+Top 3-grammi più frequenti: 
+[((',', 'and', 'the'), 12), 
+((',', 'comrades', ','), 9), 
+(('.', 'No', 'animal'), 8), 
+(('on', 'the', 'farm'), 6), 
+(('on', 'to', 'the'), 6), 
+(('.', 'All', 'the'), 5), 
+(('.', 'It', 'was'), 5), 
+(('Mr.', 'Jones', ','), 4), 
+(('there', 'was', 'a'), 4), 
+(('the', 'farm', 'buildings'), 4), 
+((',', 'but', 'he'), 4), 
+(('.', 'It', 'is'), 4), 
+(('Jones', 'and', 'his'), 4), 
+(('and', 'his', 'men'), 4), 
+(('.', 'All', 'animals'), 4), 
+(('.', 'Whatever', 'goes'), 4), 
+(('Whatever', 'goes', 'upon'), 4), 
+(('animal', 'must', 'ever'), 4), 
+(("'Beasts", 'of', 'England'), 4), 
+(('of', 'England', "'"), 4)]
+
+Top 4-grammi più frequenti: 
+[(('Jones', 'and', 'his', 'men'), 4), 
+(('.', 'Whatever', 'goes', 'upon'), 4), 
+(("'Beasts", 'of', 'England', "'"), 4), 
+(('.', 'No', 'animal', 'shall'), 4), 
+(('from', 'side', 'to', 'side'), 3), 
+((',', 'but', 'he', 'was'), 3), 
+(('.', 'All', 'the', 'animals'), 3), 
+(('.', 'All', 'animals', 'are'), 3), 
+((',', 'and', 'it', 'was'), 3), 
+((',', "''", 'said', 'Snowball'), 3), 
+(('back', 'to', 'the', 'farm'), 3), 
+(('to', 'the', 'farm', 'buildings'), 3), 
+(('to', 'the', 'other', 'animals'), 2), 
+(('of', 'the', 'big', 'barn'), 2), 
+(('twelve', 'years', 'old', 'and'), 2), 
+(('the', 'pigs', ',', 'who'), 2), 
+(('settled', 'down', 'in', 'the'), 2), 
+(('down', 'in', 'the', 'straw'), 2), 
+(('in', 'front', 'of', 'the'), 2), 
+(('two', 'cart-horses', ',', 'Boxer'), 2)]
+
+Top 5-grammi più frequenti: 
+[(('back', 'to', 'the', 'farm', 'buildings'), 3), 
+(('settled', 'down', 'in', 'the', 'straw'), 2), 
+(('two', 'cart-horses', ',', 'Boxer', 'and'), 2), 
+(('cart-horses', ',', 'Boxer', 'and', 'Clover'), 2), 
+((',', 'he', 'would', 'say', 'that'), 2), 
+(('Moses', ',', 'the', 'tame', 'raven'), 2), 
+(('cleared', 'his', 'throat', 'and', 'began'), 2), 
+(('.', '``', 'Now', ',', 'comrades'), 2), 
+(('``', 'Now', ',', 'comrades', ','), 2), 
+(('of', 'this', 'life', 'of', 'ours'), 2), 
+(('.', 'No', 'animal', 'in', 'England'), 2), 
+(('the', 'produce', 'of', 'our', 'labour'), 2), 
+(('.', '``', 'Comrades', ',', "''"), 2), 
+((',', "''", 'he', 'said', ','), 2), 
+(("''", 'he', 'said', ',', '``'), 2), 
+(('.', 'Whatever', 'goes', 'upon', 'two'), 2), 
+(('Whatever', 'goes', 'upon', 'two', 'legs'), 2), 
+(('goes', 'upon', 'two', 'legs', 'is'), 2), 
+(('upon', 'two', 'legs', 'is', 'an'), 2), 
+
+
+(('two', 'legs', 'is', 'an', 'enemy'), 2)]
+
+
+3. I TOP 20 n-grammi di PoS più frequenti (con relativa frequenza, e ordinati per frequenza decrescente):
+
+
+
+Top NN-grammi più frequenti: 683
+
+Top IN-grammi più frequenti: 667
+
+Top DT-grammi più frequenti: 632
+
+Top VBD-grammi più frequenti: 363
+
+Top ,-grammi più frequenti: 348
+
+Top NNS-grammi più frequenti: 343
+
+Top PRP-grammi più frequenti: 339
+
+Top JJ-grammi più frequenti: 320
+
+Top .-grammi più frequenti: 289
+
+Top RB-grammi più frequenti: 277
+
+Top NNP-grammi più frequenti: 224
+
+Top CC-grammi più frequenti: 221
+
+Top VB-grammi più frequenti: 184
+
+Top VBN-grammi più frequenti: 163
+
+Top TO-grammi più frequenti: 126
+
+Top PRP$-grammi più frequenti: 112
+
+Top VBG-grammi più frequenti: 88
+
+Top MD-grammi più frequenti: 83
+
+Top VBP-grammi più frequenti: 82
+
+Top VBZ-grammi più frequenti: 76
+
+Top ('DT', 'NN')-grammi più frequenti: 286
+
+Top ('IN', 'DT')-grammi più frequenti: 250
+
+Top ('NN', 'IN')-grammi più frequenti: 189
+
+Top ('JJ', 'NN')-grammi più frequenti: 139
+
+Top ('DT', 'NNS')-grammi più frequenti: 125
+
+Top ('DT', 'JJ')-grammi più frequenti: 125
+
+Top ('NN', ',')-grammi più frequenti: 122
+
+Top ('PRP', 'VBD')-grammi più frequenti: 110
+
+Top ('NN', '.')-grammi più frequenti: 110
+
+Top ('IN', 'PRP')-grammi più frequenti: 82
+
+Top (',', 'CC')-grammi più frequenti: 79
+
+Top ('IN', 'NN')-grammi più frequenti: 75
+
+Top ('NNS', 'IN')-grammi più frequenti: 71
+
+Top ('VBD', 'RB')-grammi più frequenti: 70
+
+Top ('NNS', ',')-grammi più frequenti: 70
+
+Top ('.', 'DT')-grammi più frequenti: 62
+
+Top ('MD', 'VB')-grammi più frequenti: 61
+
+Top ('VBD', 'VBN')-grammi più frequenti: 60
+
+Top ('NNS', '.')-grammi più frequenti: 59
+
+Top ('NNS', 'VBD')-grammi più frequenti: 59
+
+Top ('IN', 'DT', 'NN')-grammi più frequenti: 140
+
+Top ('DT', 'NN', 'IN')-grammi più frequenti: 86
+
+Top ('DT', 'JJ', 'NN')-grammi più frequenti: 85
+
+Top ('NN', 'IN', 'DT')-grammi più frequenti: 69
+
+Top ('IN', 'DT', 'JJ')-grammi più frequenti: 50
+
+Top ('DT', 'NNS', 'VBD')-grammi più frequenti: 46
+
+Top ('DT', 'NN', ',')-grammi più frequenti: 40
+
+Top ('DT', 'NN', '.')-grammi più frequenti: 38
+
+Top ('NN', ',', 'CC')-grammi più frequenti: 37
+
+Top ('NN', 'IN', 'NN')-grammi più frequenti: 37
+
+Top ('JJ', 'NN', 'IN')-grammi più frequenti: 37
+
+Top ('PRP', 'VBD', 'RB')-grammi più frequenti: 32
+
+Top ('IN', 'DT', 'NNS')-grammi più frequenti: 32
+
+Top ('JJ', 'NN', '.')-grammi più frequenti: 32
+
+Top ('JJ', 'NN', ',')-grammi più frequenti: 28
+
+Top ('IN', 'PRP$', 'NN')-grammi più frequenti: 26
+
+Top ('NNS', 'IN', 'DT')-grammi più frequenti: 25
+
+Top ('IN', 'PRP', 'VBD')-grammi più frequenti: 24
+
+Top ('DT', 'NNS', 'IN')-grammi più frequenti: 23
+
+Top ('.', 'PRP', 'VBD')-grammi più frequenti: 23
+
+
+4a. I TOP 10 bigrammi aggettivo-sostantivo ordinati per frequenza
+
+
+('old', 'Major'): Frequenza=3
+('other', 'animals'): Frequenza=3
+('big', 'barn'): Frequenza=3
+('few', 'minutes'): Frequenza=3
+('whole', 'farm'): Frequenza=3
+('strange', 'dream'): Frequenza=2
+('white', 'mare'): Frequenza=2
+('last', 'night'): Frequenza=2
+('human', 'beings'): Frequenza=2
+('last', 'year'): Frequenza=2
+
+
+4b.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per probabilità condizionata massima
+
+
+('strange', 'dream'): Probabilità condizionata massima=1.0
+('previous', 'night'): Probabilità condizionata massima=1.0
+('big', 'barn'): Probabilità condizionata massima=1.0
+('majestic-looking', 'pig'): Probabilità condizionata massima=1.0
+('benevolent', 'appearance'): Probabilità condizionata massima=1.0
+('different', 'fashions'): Probabilità condizionata massima=1.0
+('vast', 'hairy'): Probabilità condizionata massima=1.0
+('middle', 'life'): Probabilità condizionata massima=1.0
+('fourth', 'foal'): Probabilità condizionata massima=1.0
+('enormous', 'beast'): Probabilità condizionata massima=1.0
+
+
+4c.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per probabilità congiunta massima
+
+
+('old', 'Major'): Probabilità congiunta massima=0.0005008347245409015
+('other', 'animals'): Probabilità congiunta massima=0.0005008347245409015
+('big', 'barn'): Probabilità congiunta massima=0.0005008347245409015
+('few', 'minutes'): Probabilità congiunta massima=0.0005008347245409015
+('whole', 'farm'): Probabilità congiunta massima=0.0005008347245409015
+('human', 'beings'): Probabilità congiunta massima=0.00033388981636060105
+('strange', 'dream'): Probabilità congiunta massima=0.000333889816360601
+('white', 'mare'): Probabilità congiunta massima=0.000333889816360601
+('last', 'night'): Probabilità congiunta massima=0.000333889816360601
+('last', 'year'): Probabilità congiunta massima=0.000333889816360601
+
+
+4d.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per Mutual Information
+
+
+('different', 'fashions'): Mutual Information massima=12.54834028767615
+('vast', 'hairy'): Mutual Information massima=12.54834028767615
+('fourth', 'foal'): Mutual Information massima=12.54834028767615
+('enormous', 'beast'): Mutual Information massima=12.54834028767615
+('first-rate', 'intelligence'): Mutual Information massima=12.54834028767615
+('cynical', 'remark'): Mutual Information massima=12.54834028767615
+('hideous', 'cruelty'): Mutual Information massima=12.54834028767615
+('sturdy', 'calves'): Mutual Information massima=12.54834028767615
+('nearest', 'pond'): Mutual Information massima=12.54834028767615
+('swift', 'dash'): Mutual Information massima=12.54834028767615
+
+
+4e.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per Local Mutual Information
+
+
+('big', 'barn'): Local Mutual Information massima=14.616375532343529
+('few', 'minutes'): Local Mutual Information massima=14.616375532343529
+('golden', 'future'): Local Mutual Information massima=12.18903519756858
+('main', 'road'): Local Mutual Information massima=12.18903519756858
+('five-barred', 'gate'): Local Mutual Information massima=12.18903519756858
+('secret', 'meetings'): Local Mutual Information massima=11.019110196126267
+('human', 'beings'): Local Mutual Information massima=10.715104009236168
+('strange', 'dream'): Local Mutual Information massima=9.744250354895684
+('great', 'difficulty'): Local Mutual Information massima=8.574325353453371
+('white', 'mare'): Local Mutual Information massima=8.189035197568579
+
+
+4f. Numero di elementi comuni tra top 10 MI e LMI: 0
+
+
+5a. La frase con la media della distribuzione di frequenza dei token più alta, ovvero 159.75, è:
+	After the horses came Muriel, the white goat, and Benjamin, the donkey.
+
+
+5b. La frase con la media della distribuzione di frequenza dei token più bassa, ovvero 12.222, è:
+	Others asked such questions as "Why should we care what
+happens after we are dead?"
+
+
+5c. La frase con la probabilità più alta secondo un modello di Markov di ordine 2 costruito a partire dal corpus in input è "Now, comrades, what is the nature of this life of ours?, con probabilità 0.19232053422370618 
+
+
+6. Frequent Named Entities:
+
+PERSON: 
+[('Mr. Jones', 15), 
+('Jones', 11), 
+('Snowball', 9), 
+('Major', 8), 
+('Napoleon', 8), 
+('Boxer', 6), 
+('Mollie', 5), 
+('Man', 5), 
+('Squealer', 3), 
+('Clover', 2), 
+('Benjamin', 2), 
+('Beasts', 2), 
+('Hearken', 2), 
+('Mr.', 1), 
+('Word', 1)]
+
+GPE: 
+[('England', 11), 
+('Clover', 5), 
+('Animalism', 4), 
+('Boxer', 2), 
+('Ireland', 2), 
+('Snowball', 2), 
+('Jones', 1), 
+('Middle White', 1), 
+('Jessie', 1), 
+('Moses', 1), 
+('Napoleon', 1), 
+('Sugarcandy', 1), 
+('Sugarcandy Mountain', 1), 
+('Midsummer', 1), 
+('Brussels', 1)]
+
+ORGANIZATION: 
+[('Rebellion', 3), 
+('Snowball', 3), 
+('Berkshire', 2), 
+('Bluebell', 1), 
+('Red Lion', 1), 
+('News', 1), 
+('MANOR', 1), 
+('ANIMAL', 1), 
+('Seven Commandments', 1), 
+('Commandments', 1), 
+('SEVEN', 1), 
+('Comrade Snowball', 1)]

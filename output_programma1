@@ -1,0 +1,102 @@
+OUPUT PROGRAMMA 1
+
+
+1. Confronto tra numero di token e numero di frasi
+
+Il primo corpus ha 289 frasi, e 5990 token.
+Il secondo corpus ha 273 frasi, e 6196 token.
+
+
+2. Confronto tra lunghezza media delle frasi in token e lunghezza media dei token a eccezione della punteggiatura, in caratteri
+
+Nel primo corpus le frasi hanno in media 20.726643598615915 token, i token hanno in media 3.745575959933222 caratteri
+Nel primo corpus le frasi hanno in media 22.695970695970697 token, i token hanno in media 4.5755326016785025 caratteri
+
+
+3. Confronto il numero di hapax ogni 500, 1000 e 3000 token e nell'intero corpus.
+
+Nel primo corpus si hanno
+Hapax tra i primi 500 token: 186
+Hapax tra i primi 1000 token: 297
+Hapax tra i primi 3000 token: 565
+Hapax nell'intero corpus: 852
+Nel secondo corpus si hanno
+Hapax tra i primi 500 token: 189
+Hapax tra i primi 1000 token: 307
+Hapax tra i primi 3000 token: 607
+Hapax nell'intero corpus: 935
+
+
+4. Confronto la dimensione del vocabolario e la ricchezza lessicale (TTR) calcolata per porzioni incrementali di 200 token fino ad arrivare a tutto il resto
+
+Porzione 200 token - Vocabolario: 115, TTR: 0.575
+Porzione 400 token - Vocabolario: 209, TTR: 0.5225
+Porzione 600 token - Vocabolario: 289, TTR: 0.4816666666666667
+Porzione 800 token - Vocabolario: 360, TTR: 0.45
+Porzione 1000 token - Vocabolario: 426, TTR: 0.426
+Porzione 1200 token - Vocabolario: 495, TTR: 0.4125
+Porzione 1400 token - Vocabolario: 557, TTR: 0.39785714285714285
+Porzione 1600 token - Vocabolario: 604, TTR: 0.3775
+Porzione 1800 token - Vocabolario: 651, TTR: 0.3616666666666667
+Porzione 2000 token - Vocabolario: 696, TTR: 0.348
+Porzione 2200 token - Vocabolario: 735, TTR: 0.3340909090909091
+Porzione 2400 token - Vocabolario: 781, TTR: 0.3254166666666667
+Porzione 2600 token - Vocabolario: 809, TTR: 0.31115384615384617
+Porzione 2800 token - Vocabolario: 866, TTR: 0.3092857142857143
+Porzione 3000 token - Vocabolario: 902, TTR: 0.3006666666666667
+Porzione 3200 token - Vocabolario: 949, TTR: 0.2965625
+Porzione 3400 token - Vocabolario: 992, TTR: 0.2917647058823529
+Porzione 3600 token - Vocabolario: 1025, TTR: 0.2847222222222222
+Porzione 3800 token - Vocabolario: 1057, TTR: 0.2781578947368421
+Porzione 4000 token - Vocabolario: 1098, TTR: 0.2745
+Porzione 4200 token - Vocabolario: 1141, TTR: 0.27166666666666667
+Porzione 4400 token - Vocabolario: 1179, TTR: 0.26795454545454545
+Porzione 4600 token - Vocabolario: 1219, TTR: 0.265
+Porzione 4800 token - Vocabolario: 1257, TTR: 0.261875
+Porzione 5000 token - Vocabolario: 1294, TTR: 0.2588
+Porzione 5200 token - Vocabolario: 1338, TTR: 0.2573076923076923
+Porzione 5400 token - Vocabolario: 1367, TTR: 0.2531481481481481
+Porzione 5600 token - Vocabolario: 1406, TTR: 0.25107142857142856
+Porzione 5800 token - Vocabolario: 1429, TTR: 0.24637931034482757
+Porzione 200 token - Vocabolario: 131, TTR: 0.655
+Porzione 400 token - Vocabolario: 210, TTR: 0.525
+Porzione 600 token - Vocabolario: 291, TTR: 0.485
+Porzione 800 token - Vocabolario: 367, TTR: 0.45875
+Porzione 1000 token - Vocabolario: 426, TTR: 0.426
+Porzione 1200 token - Vocabolario: 475, TTR: 0.3958333333333333
+Porzione 1400 token - Vocabolario: 541, TTR: 0.38642857142857145
+Porzione 1600 token - Vocabolario: 591, TTR: 0.369375
+Porzione 1800 token - Vocabolario: 654, TTR: 0.36333333333333334
+Porzione 2000 token - Vocabolario: 708, TTR: 0.354
+Porzione 2200 token - Vocabolario: 760, TTR: 0.34545454545454546
+Porzione 2400 token - Vocabolario: 808, TTR: 0.33666666666666667
+Porzione 2600 token - Vocabolario: 862, TTR: 0.33153846153846156
+Porzione 2800 token - Vocabolario: 893, TTR: 0.31892857142857145
+Porzione 3000 token - Vocabolario: 939, TTR: 0.313
+Porzione 3200 token - Vocabolario: 989, TTR: 0.3090625
+Porzione 3400 token - Vocabolario: 1036, TTR: 0.30470588235294116
+Porzione 3600 token - Vocabolario: 1078, TTR: 0.29944444444444446
+Porzione 3800 token - Vocabolario: 1115, TTR: 0.29342105263157897
+Porzione 4000 token - Vocabolario: 1179, TTR: 0.29475
+Porzione 4200 token - Vocabolario: 1221, TTR: 0.2907142857142857
+Porzione 4400 token - Vocabolario: 1255, TTR: 0.2852272727272727
+Porzione 4600 token - Vocabolario: 1312, TTR: 0.2852173913043478
+Porzione 4800 token - Vocabolario: 1347, TTR: 0.280625
+Porzione 5000 token - Vocabolario: 1376, TTR: 0.2752
+Porzione 5200 token - Vocabolario: 1406, TTR: 0.2703846153846154
+Porzione 5400 token - Vocabolario: 1442, TTR: 0.267037037037037
+Porzione 5600 token - Vocabolario: 1477, TTR: 0.26375
+Porzione 5800 token - Vocabolario: 1523, TTR: 0.2625862068965517
+Porzione 6000 token - Vocabolario: 1562, TTR: 0.26033333333333336
+
+
+5. Confronto la dimensione del vocabolario dei lemmi
+
+Nel primo corpus la dimensione del vocabolario dei lemmi è 1289
+Nel secondo corpus la dimensione del vocabolario dei lemmi è 1479
+
+
+6. Confronto la distribuzione di frasi con polarità negativa e positiva
+
+Nel primo corpus ci sono 183 frasi NEG e 106 POS. 
+Nel secondo corpus ci sono 73 frasi NEG e 200 POS.

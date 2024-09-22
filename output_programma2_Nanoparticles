@@ -1,0 +1,550 @@
+
+OUPUT PROGRAMMA 2, file Nanoparticles.txt
+
+
+1. I TOP 50 Sostantivi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. NPs: 126
+2. size: 37
+3. properties: 34
+4. technique: 33
+5. materials: 26
+6. applications: 23
+7. surface: 21
+8. Fig: 16
+9. techniques: 16
+10. nm: 15
+11. SEM: 14
+12. synthesis: 13
+13. al.: 12
+14. TEM: 12
+15. approach: 12
+16. information: 12
+17. absorption: 11
+18. carbon: 11
+19. case: 11
+20. material: 10
+21. characteristics: 10
+22. electron: 10
+23. particle: 10
+24. study: 10
+25. XPS: 10
+26. gold: 9
+27. particles: 9
+28. Au: 8
+29. al: 8
+30. XRD: 8
+31. %: 7
+32. methods: 7
+33. water: 7
+34. method: 7
+35. bulk: 7
+36. BET: 7
+37. ZnO: 7
+38. area: 7
+39. researchers: 6
+40. metal: 6
+41. NP: 6
+42. structure: 6
+43. diameter: 6
+44. spectrum: 6
+45. Wang: 6
+46. time: 6
+47. dispersion: 6
+48. nature: 6
+49. depth: 6
+50. fluids: 6
+
+
+I TOP 50 Avverbi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. al.: 63
+2. et: 60
+3. also: 17
+4. therefore: 7
+5. well: 6
+6. widely: 6
+7. respectively: 5
+8. most: 5
+9. not: 4
+10. very: 4
+11. relatively: 4
+12. Similarly: 4
+13. as: 4
+14. only: 3
+15. Therefore: 3
+16. exceptionally: 3
+17. normally: 3
+18. thus: 3
+19. effectively: 3
+20. always: 3
+21. chemically: 2
+22. broadly: 2
+23. especially: 2
+24. Lately: 2
+25. mostly: 2
+26. generally: 2
+27. then: 2
+28. up: 2
+29. More: 2
+30. recently: 2
+31. Moreover: 2
+32. directly: 2
+33. nm: 2
+34. thermodynamically: 2
+35. However: 2
+36. extremely: 2
+37. Thus: 2
+38. significantly: 2
+39. silver: 1
+40. nanoshell: 1
+41. thickness: 1
+42. hence: 1
+43. essentially: 1
+44. usually: 1
+45. structurally: 1
+46. purely: 1
+47. deeply: 1
+48. completely: 1
+49. readily: 1
+50. Generally: 1
+
+
+I TOP 50 Aggettivi più frequenti (con relativa frequenza, ordinata per frequenza decrescente):
+
+
+1. such: 19
+2. different: 16
+3. various: 13
+4. optical: 12
+5. other: 11
+6. due: 10
+7. important: 9
+8. top-down: 9
+9. mechanical: 8
+10. spherical: 8
+11. many: 7
+12. solid: 7
+13. good: 7
+14. high: 6
+15. thermal: 6
+16. overall: 5
+17. electronic: 5
+18. great: 5
+19. lipid: 5
+20. structural: 5
+21. elemental: 5
+22. large: 5
+23. red: 4
+24. physical: 4
+25. well-known: 4
+26. organic: 4
+27. special: 4
+28. smaller: 4
+29. prepared: 4
+30. strong: 4
+31. low: 4
+32. bottom-up: 4
+33. greater: 4
+34. specific: 4
+35. best: 4
+36. magnetic: 4
+37. less: 3
+38. black: 3
+39. biological: 3
+40. hollow: 3
+41. single: 3
+42. Due: 3
+43. environmental: 3
+44. electromagnetic: 3
+45. suitable: 3
+46. latter: 3
+47. photoactive: 3
+48. active: 3
+49. morphological: 3
+50. similar: 3
+
+
+2. I TOP 20 n-grammi (n=[1,2,3,4,5]):
+
+
+
+Top 1-grammi più frequenti: 
+[(',', 341), 
+('.', 273), 
+('the', 239), 
+('of', 203), 
+('and', 192), 
+('(', 158), 
+(')', 158), 
+('NPs', 126), 
+('to', 97), 
+('et', 84), 
+('in', 79), 
+('al.', 75), 
+('is', 68), 
+('are', 56), 
+('The', 54), 
+('with', 48), 
+('as', 46), 
+('for', 38), 
+('size', 37), 
+('properties', 34)]
+
+Top 2-grammi più frequenti: 
+[((')', '.'), 79), 
+(('et', 'al.'), 75), 
+(('al.', ','), 75), 
+(('.', 'The'), 51), 
+(('of', 'the'), 40), 
+((',', 'which'), 29), 
+((',', '2016'), 27), 
+(('of', 'NPs'), 27), 
+((')', ','), 23), 
+(('2016', ')'), 22), 
+(('NPs', '.'), 20), 
+(('in', 'the'), 19), 
+(('can', 'be'), 19), 
+((',', 'and'), 18), 
+(('the', 'NPs'), 17), 
+(('such', 'as'), 17), 
+(('Fig', '.'), 16), 
+(('properties', 'of'), 15), 
+(('.', 'These'), 15), 
+(('NPs', 'are'), 15)]
+
+Top 3-grammi più frequenti: 
+[(('et', 'al.', ','), 75), 
+(('al.', ',', '2016'), 22), 
+((',', '2016', ')'), 22), 
+(('2016', ')', '.'), 17), 
+((')', '.', 'The'), 14), 
+(('al.', ',', '2015'), 11), 
+((',', '2015', ')'), 10), 
+(('properties', 'of', 'NPs'), 10), 
+(('of', 'NPs', '.'), 9), 
+((',', '2014', ')'), 9), 
+(('et', 'al', '.'), 9), 
+((',', '2011', ')'), 8), 
+(('2015', ')', '.'), 8), 
+(('of', 'the', 'NPs'), 7), 
+((',', 'which', 'is'), 7), 
+((')', '.', 'These'), 7), 
+(('al.', ',', '2014'), 7), 
+(('2011', ')', '.'), 7), 
+(('information', 'about', 'the'), 7), 
+(('can', 'be', 'used'), 7)]
+
+Top 4-grammi più frequenti: 
+[(('et', 'al.', ',', '2016'), 22), 
+(('al.', ',', '2016', ')'), 21), 
+((',', '2016', ')', '.'), 17), 
+(('et', 'al.', ',', '2015'), 11), 
+(('al.', ',', '2015', ')'), 9), 
+((',', '2015', ')', '.'), 8), 
+(('et', 'al.', ',', '2014'), 7), 
+(('al.', ',', '2014', ')'), 7), 
+((',', '2011', ')', '.'), 7), 
+(('et', 'al.', ',', '2012'), 6), 
+(('al.', ',', '2012', ')'), 6), 
+((',', '2012', ')', '.'), 5), 
+(('et', 'al.', ',', '2017'), 5), 
+(('et', 'al.', ',', '2013'), 5), 
+((',', '2014', ')', '.'), 5), 
+(('et', 'al.', ',', '2011'), 4), 
+(('al.', ',', '2011', ')'), 4), 
+((',', '2013', ')', '.'), 4), 
+(('al.', ',', '2013', ')'), 4), 
+(('properties', 'of', 'NPs', '.'), 4)]
+
+Top 5-grammi più frequenti: 
+[(('et', 'al.', ',', '2016', ')'), 21), 
+(('al.', ',', '2016', ')', '.'), 16), 
+(('et', 'al.', ',', '2015', ')'), 9), 
+(('al.', ',', '2015', ')', '.'), 7), 
+(('et', 'al.', ',', '2014', ')'), 7), 
+(('et', 'al.', ',', '2012', ')'), 6), 
+(('al.', ',', '2012', ')', '.'), 5), 
+(('et', 'al.', ',', '2011', ')'), 4), 
+(('et', 'al.', ',', '2013', ')'), 4), 
+(('al.', ',', '2014', ')', '.'), 4), 
+(('al.', ',', '2016', ')', ','), 3), 
+(('(', 'Mansha', 'et', 'al.', ','), 3), 
+(('et', 'al.', ',', '2017', ')'), 3), 
+(('al.', ',', '2013', ')', '.'), 3), 
+(('al.', ',', '2011', ')', '.'), 3), 
+(('(', 'Wang', 'and', 'Xia', ','), 3), 
+(('Wang', 'and', 'Xia', ',', '2004'), 3), 
+(('and', 'Xia', ',', '2004', ')'), 3), 
+(('(', 'Iravani', ',', '2011', ')'), 3), 
+(('Iravani', ',', '2011', ')', '.'), 3)]
+
+
+3. I TOP 20 n-grammi di PoS più frequenti (con relativa frequenza, e ordinati per frequenza decrescente):
+
+
+
+Top NN-grammi più frequenti: 1012
+
+Top IN-grammi più frequenti: 621
+
+Top JJ-grammi più frequenti: 614
+
+Top NNP-grammi più frequenti: 538
+
+Top DT-grammi più frequenti: 437
+
+Top NNS-grammi più frequenti: 374
+
+Top ,-grammi più frequenti: 341
+
+Top RB-grammi più frequenti: 282
+
+Top .-grammi più frequenti: 273
+
+Top CC-grammi più frequenti: 227
+
+Top CD-grammi più frequenti: 192
+
+Top VBN-grammi più frequenti: 168
+
+Top (-grammi più frequenti: 158
+
+Top )-grammi più frequenti: 158
+
+Top VBZ-grammi più frequenti: 117
+
+Top VBD-grammi più frequenti: 109
+
+Top VBP-grammi più frequenti: 97
+
+Top TO-grammi più frequenti: 97
+
+Top VB-grammi più frequenti: 89
+
+Top VBG-grammi più frequenti: 61
+
+Top ('JJ', 'NN')-grammi più frequenti: 256
+
+Top ('NN', 'IN')-grammi più frequenti: 213
+
+Top ('IN', 'DT')-grammi più frequenti: 192
+
+Top ('DT', 'NN')-grammi più frequenti: 182
+
+Top ('NN', 'NN')-grammi più frequenti: 173
+
+Top ('JJ', 'NNS')-grammi più frequenti: 144
+
+Top ('(', 'NNP')-grammi più frequenti: 143
+
+Top ('DT', 'JJ')-grammi più frequenti: 131
+
+Top (',', 'CD')-grammi più frequenti: 114
+
+Top ('IN', 'NN')-grammi più frequenti: 111
+
+Top ('IN', 'JJ')-grammi più frequenti: 109
+
+Top ('NN', ',')-grammi più frequenti: 102
+
+Top ('CD', ')')-grammi più frequenti: 100
+
+Top ('NNS', 'IN')-grammi più frequenti: 98
+
+Top ('VBN', 'IN')-grammi più frequenti: 96
+
+Top ('RB', ',')-grammi più frequenti: 87
+
+Top ('IN', 'NNP')-grammi più frequenti: 86
+
+Top ('.', 'DT')-grammi più frequenti: 86
+
+Top ('NN', '.')-grammi più frequenti: 84
+
+Top (')', '.')-grammi più frequenti: 79
+
+Top ('IN', 'DT', 'NN')-grammi più frequenti: 98
+
+Top (',', 'CD', ')')-grammi più frequenti: 89
+
+Top ('CD', ')', '.')-grammi più frequenti: 76
+
+Top ('NN', '(', 'NNP')-grammi più frequenti: 73
+
+Top ('DT', 'JJ', 'NN')-grammi più frequenti: 70
+
+Top ('JJ', 'NN', 'IN')-grammi più frequenti: 66
+
+Top ('NN', 'IN', 'DT')-grammi più frequenti: 65
+
+Top ('RB', ',', 'CD')-grammi più frequenti: 63
+
+Top ('NNP', 'RB', 'RB')-grammi più frequenti: 62
+
+Top ('(', 'NNP', 'RB')-grammi più frequenti: 60
+
+Top ('RB', 'RB', ',')-grammi più frequenti: 60
+
+Top ('DT', 'NN', 'IN')-grammi più frequenti: 58
+
+Top ('(', 'NNP', ')')-grammi più frequenti: 48
+
+Top ('IN', 'DT', 'JJ')-grammi più frequenti: 48
+
+Top ('JJ', 'NN', 'NN')-grammi più frequenti: 47
+
+Top ('JJ', 'NNS', 'IN')-grammi più frequenti: 45
+
+Top ('IN', 'JJ', 'NN')-grammi più frequenti: 43
+
+Top ('DT', 'NN', 'NN')-grammi più frequenti: 39
+
+Top ('NN', 'IN', 'NNP')-grammi più frequenti: 37
+
+Top ('NN', 'IN', 'NN')-grammi più frequenti: 34
+
+
+4a. I TOP 10 bigrammi aggettivo-sostantivo ordinati per frequenza
+
+
+('optical', 'properties'): Frequenza=5
+('various', 'applications'): Frequenza=4
+('mechanical', 'properties'): Frequenza=4
+('latter', 'case'): Frequenza=3
+('thermal', 'conductivity'): Frequenza=3
+('nanoscale', 'level'): Frequenza=2
+('environmental', 'remediation'): Frequenza=2
+('localized', 'surface'): Frequenza=2
+('noble', 'metals'): Frequenza=2
+('broad', 'absorption'): Frequenza=2
+
+
+4b.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per probabilità condizionata massima
+
+
+('revolutionary', 'developments'): Probabilità condizionata massima=1.0
+('nanoscale', 'level'): Probabilità condizionata massima=1.0
+('particulate', 'substances'): Probabilità condizionata massima=1.0
+('Laurent', 'et'): Probabilità condizionata massima=1.0
+('physiochemical', 'properties'): Probabilità condizionata massima=1.0
+('yellowish', 'gray'): Probabilità condizionata massima=1.0
+('aspect', 'ratio'): Probabilità condizionata massima=1.0
+('small', 'molecules'): Probabilità condizionata massima=1.0
+('central', 'portion'): Probabilità condizionata massima=1.0
+('exceptional', 'characteristics'): Probabilità condizionata massima=1.0
+
+
+4c.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per probabilità congiunta massima
+
+
+('optical', 'properties'): Probabilità congiunta massima=0.0008069722401549388
+('various', 'applications'): Probabilità congiunta massima=0.000645577792123951
+('mechanical', 'properties'): Probabilità congiunta massima=0.0006455777921239509
+('thermal', 'conductivity'): Probabilità congiunta massima=0.0004841833440929632
+('latter', 'case'): Probabilità congiunta massima=0.00048418334409296317
+('lipid', 'NPs'): Probabilità congiunta massima=0.0003227888960619755
+('structural', 'properties'): Probabilità congiunta massima=0.0003227888960619755
+('elemental', 'composition'): Probabilità congiunta massima=0.0003227888960619755
+('other', 'nanomaterials'): Probabilità congiunta massima=0.0003227888960619755
+('solid', 'particles'): Probabilità congiunta massima=0.0003227888960619755
+
+
+4d.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per Mutual Information
+
+
+('revolutionary', 'developments'): Mutual Information massima=12.597121428789569
+('yellowish', 'gray'): Mutual Information massima=12.597121428789569
+('central', 'portion'): Mutual Information massima=12.597121428789569
+('rolled', 'sheets'): Mutual Information massima=12.597121428789569
+('electric', 'arc'): Mutual Information massima=12.597121428789569
+('visible', 'zone'): Mutual Information massima=12.597121428789569
+('nonmetallic', 'solids'): Mutual Information massima=12.597121428789569
+('successive', 'cooling'): Mutual Information massima=12.597121428789569
+('ceramic', 'balls'): Mutual Information massima=12.597121428789569
+('natural', 'iron'): Mutual Information massima=12.597121428789569
+
+
+4e.  I TOP 10 bigrammi aggettivo-sostantivo ordinati per Local Mutual Information
+
+
+('thermal', 'conductivity'): Local Mutual Information massima=17.32436117880352
+('elastic', 'modulus'): Local Mutual Information massima=15.549574119202347
+('latter', 'case'): Local Mutual Information massima=14.700953825055098
+('nanoscale', 'level'): Local Mutual Information massima=14.379649117760035
+('environmental', 'remediation'): Local Mutual Information massima=14.379649117760035
+('rough', 'idea'): Local Mutual Information massima=14.379649117760035
+('biological', 'systems'): Local Mutual Information massima=13.209724116317721
+('noble', 'metals'): Local Mutual Information massima=12.905717929427622
+('morphological', 'features'): Local Mutual Information massima=12.379649117760035
+('red', 'shift'): Local Mutual Information massima=12.379649117760035
+
+
+4f. Numero di elementi comuni tra top 10 MI e LMI: 0
+
+
+5a. La frase con la media della distribuzione di frequenza dei token più alta, ovvero 135.833, è:
+	12) (Khlebtsov and Dykman, 2010a, 2010b).
+
+
+5b. La frase con la media della distribuzione di frequenza dei token più bassa, ovvero 26.0, è:
+	Alizarin was selected as it offers strong binding capacity with TiO2 through their axial hydroxyl terminal groups.
+
+
+5c. La frase con la probabilità più alta secondo un modello di Markov di ordine 2 costruito a partire dal corpus in input è This technique is based on adsorption and desorption principle and Brunauer–Emmett–Teller (BET) theorem., con probabilità 0.06197546804389929 
+
+
+6. Frequent Named Entities:
+
+GPE: 
+[('Iravani', 3), 
+('Nanotechnology', 1), 
+('Room', 1), 
+('Nanoparticles', 1), 
+('Abouelmagd', 1), 
+('Scheme', 1), 
+('Fig', 1), 
+('Au', 1), 
+('Aloe', 1), 
+('Porous', 1), 
+('Zieta', 1), 
+('Ingham', 1), 
+('Raman', 1), 
+('Alumina', 1), 
+('Pr', 1)]
+
+PERSON: 
+[('Wang', 6), 
+('Khan', 5), 
+('Mansha', 3), 
+('Xia', 3), 
+('Raman', 3), 
+('Dreaden', 2), 
+('Lee', 2), 
+('Ullah', 2), 
+('Co3O4 NPs', 2), 
+('Needham', 2), 
+('Dykman', 2), 
+('Lykhach', 2), 
+('Sikora', 2), 
+('Gross', 2), 
+('Peng', 2)]
+
+ORGANIZATION: 
+[('NPs', 85), 
+('SEM', 14), 
+('TEM', 11), 
+('XPS', 10), 
+('XRD', 7), 
+('BET', 7), 
+('ZnO', 7), 
+('Fig', 6), 
+('LSPR', 5), 
+('DLS', 4), 
+('SWNTs', 3), 
+('POM', 3), 
+('TiO2', 3), 
+('Liu', 3), 
+('EDX', 3)]
